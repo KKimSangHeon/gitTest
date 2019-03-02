@@ -50,8 +50,6 @@ of frames = 3
 ### Optimal(OPT)
 
 
-next chapter
-
 
 
 
